@@ -1,3 +1,4 @@
+
 🧮 Calculator App
 
 This is a simple Calculator Web App I built while learning JavaScript.
